@@ -1,6 +1,6 @@
 ﻿
 # freeCodeCamp.org Courses
-My archives from freeCodeCamp course
+My archives from freeCodeCamp course.
 My goal is to get a certificate of: 
 
  - [ ] [Responsive Web Design
