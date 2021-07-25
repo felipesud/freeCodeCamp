@@ -4,4 +4,4 @@ var lastName = "Lovelace";
 
 // Only change code below this line
 lastNameLength = lastName.length;
-console.log(lastNameLength)
+console.log(lastNameLength);
