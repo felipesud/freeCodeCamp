@@ -8,7 +8,8 @@ My goal is to get a certificate of:
        
  - [ ] [Front-End Development Libraries
               Certification](https://github.com/FelipeSud/freeCodeCamp/tree/master/front-end-certification)
- - [ ] JavaScript, Algorithms and Data Structures Certification- 
+ - [ ] [JavaScript, Algorithms and Data Structures Certification](https://github.com/FelipeSud/freeCodeCamp/tree/master/javascript-algorithms-data-structures) 
+ 
  - [ ] API's and Microservices Certification
  - [ ] Quality Assurance Certification
  - [ ] Information Security Certification
