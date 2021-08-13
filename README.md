@@ -15,8 +15,8 @@ My goal is to get a certificate of:
  - [ ] Information Security Certification
 
 Status: 
-Link of repository inserted, if started course
-Check [ ] if it was concluded
+Link of repository inserted, if started course.
+Check [ ] if it was concluded.
 
 
 
